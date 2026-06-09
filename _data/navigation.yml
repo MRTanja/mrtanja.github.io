@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /mrtanja/cv/
+    url: /cv/
   - title: "Research"
     url: /research/
   - title: "MRI data"

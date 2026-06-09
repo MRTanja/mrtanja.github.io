@@ -116,11 +116,7 @@ analytics:
 author:
   name             : "Tanja"
   avatar           : "/assets/images/20250515_181347.jpg"
-  bio              : "I’m a fourth-year PhD student and a systems neuroscientist. My main interest lies in using diffusion MRI to investigate the microstructural correlates of white matter pathology across diseases, with the goal of biophysically informed and clinically useful characterisation of WM changes." 
- 
-                     "Other areas of interest are dMRI modeling and analysis, open science and reproducibility, as well as teaching (currently Medical Physics for undergraduates). I’m a member of the International Society for Magnetic Resonance in Medicine and the International Society for Tractography."
-                     
-                     "Outside of the lab you can find me rowing, coxing or running (at most two out of the three at the same time)."
+  bio              : "I’m a fourth-year PhD student and a systems neuroscientist. My main interest lies in using diffusion MRI to investigate the microstructural correlates of white matter pathology across diseases, with the goal of biophysically informed and clinically useful characterisation of WM changes. Other areas of interest are dMRI modeling and analysis, open science and reproducibility, as well as teaching (currently Medical Physics for undergraduates). I’m a member of the International Society for Magnetic Resonance in Medicine and the International Society for Tractography. Outside of the lab you can find me rowing, coxing or running (at most two out of the three at the same time)."
   location         : "Cambridge"
   email            : "ts887@cam.ac.uk"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag

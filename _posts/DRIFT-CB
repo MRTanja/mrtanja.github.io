@@ -1,0 +1,11 @@
+---
+title: "DRIFT-CB: A traveling subjects study"
+date: 2026-06-10
+layout: single
+---
+
+With a pump priming grant of £10,000 from the BRC ([Neurodegeneration and Dementia theme](https://cambridgebrc.nihr.ac.uk/our-research/themes/neurodegenerative-disease-and-dementia/)), I am currently conducting a traveling subjects study (DRIFT-CB: Diffusion MRI Reproducibility and Inter-Site Fidelity Trial, Cambridge-Brighton). Six volunteers will be scanned in Cambridge and Brighton, twice at each site so we can assess both intra-site and inter-site reproducibility of diffusion MRI data. 
+
+DRIFT-CB will provide insights into the reproducibility of a much larger study QMIN-MC run by my PI Timothy Rittman, and as such the sequences will be identical and include 3D MPRAGE, 2D T2, FLAIR, multi-shell diffusion MRI, SWI and rs-fMRI.
+
+Once collected and preprocessed, the data will be available for sharing, so feel free to reach out and let me know if you'd like to analyse it yourself!
